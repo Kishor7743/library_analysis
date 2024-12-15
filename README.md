@@ -262,10 +262,12 @@ select * from return_status;
 --Task 13: Identify Members with Overdue Books.
 --Write a query to identify members who have overdue books (assume a 30-day return period). 
 --Display the member's_id, member's name, book title, issue date, and days overdue.
+
 /*    
 Task 14: Update Book Status on Return
 Write a query to update the status of books in the books table to "Yes" when they are returned (based on entries in the return_status table).
 */
+
 /*
 Task 15: Branch Performance Report
 Create a query that generates a performance report for each branch, showing the number of books issued, the number of books returned, and the total revenue generated from book rentals.
